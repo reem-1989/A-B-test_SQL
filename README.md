@@ -51,7 +51,7 @@ One table, one row per visitor:
 The split is close to 50/50, so the random assignment worked.
 
 ### Step 2: compare sign-up rates (Q3)
-<img width="1000" height="900" alt="image" src="https://github.com/user-attachments/assets/a7c05fa3-ce4f-49a8-b2a4-ec7621629eb6" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/a7c05fa3-ce4f-49a8-b2a4-ec7621629eb6" />
 
 
 | Group | Visitors | Sign-ups | Sign-up rate |
