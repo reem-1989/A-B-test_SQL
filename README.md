@@ -51,6 +51,8 @@ One table, one row per visitor:
 The split is close to 50/50, so the random assignment worked.
 
 ### Step 2: compare sign-up rates (Q3)
+<img width="1400" height="920" alt="image" src="https://github.com/user-attachments/assets/a7c05fa3-ce4f-49a8-b2a4-ec7621629eb6" />
+
 
 | Group | Visitors | Sign-ups | Sign-up rate |
 |---|---:|---:|---:|
@@ -133,7 +135,6 @@ To recreate the data, run `python scripts/generate_data.py` (Python 3, no extra 
 This project was built with help from AI (Claude, by Anthropic). AI helped with:
 
 - Writing the Python script that generates the synthetic dataset
-- Drafting the SQL queries
 - Writing and editing this README
 
-My part was choosing the test design and decision rule, running the queries in MySQL, checking the results, and interpreting the findings and recommendation. I can explain every query in this repository.
+My part was choosing the test design and decision rule, writing and running the queries in MySQL, checking the results, and interpreting the findings and recommendation. I can explain every query in this repository.
